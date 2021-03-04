@@ -1,6 +1,7 @@
 # Among Us
 
-A Pen created on CodePen.io. intending to play with CSS while also working with it's various properties<br>
-Original URL: [https://codepen.io/shimmer_7/pen/BaQPKjb](https://codepen.io/shimmer_7/pen/BaQPKjb).
+I created this Pen on CodePen.io. intending to play with CSS while also working with it's various properties<br>
+I have the full live version here :https://codepen.io/shimmer_7/full/BaQPKjb
+
 
 
